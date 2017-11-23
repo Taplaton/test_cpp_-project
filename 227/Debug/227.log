@@ -1,0 +1,4 @@
+﻿  227.cpp
+f:\programm\227\227\227.cpp(17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  227.vcxproj -> F:\PROGRAMM\227\Debug\227.exe
+  227.vcxproj -> F:\PROGRAMM\227\Debug\227.pdb (Partial PDB)
